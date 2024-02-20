@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Administrator\Desktop\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="aiswebsite.comn" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Alowance claim management system.pdb" publishTime="02/17/2024 11:10:15" />
+    <file relUrl="WebForm6.aspx" publishTime="02/12/2024 11:03:33" />
+    <file relUrl="Global.asax" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Site.Master" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Styles/Site.css" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="WebForm7.aspx" publishTime="02/09/2024 09:54:43" />
+    <file relUrl="StyleSheetclaim.css" publishTime="11/14/2023 16:17:34" />
+    <file relUrl="About.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="regfrm.aspx" publishTime="02/12/2024 11:10:23" />
+    <file relUrl="WebForm2.aspx" publishTime="02/09/2024 04:36:32" />
+    <file relUrl="Account/Register.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Account/Login.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Account/Web.config" publishTime="02/17/2024 11:10:20" />
+    <file relUrl="bin/Alowance claim management system.xml" publishTime="02/17/2024 11:10:15" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="homefrm.aspx" publishTime="02/07/2024 09:18:01" />
+    <file relUrl="Default.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="WebForm5.aspx" publishTime="02/07/2024 08:33:18" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/07/2023 17:31:24" />
+    <file relUrl="regstyle.css" publishTime="11/11/2023 20:03:20" />
+    <file relUrl="claimfrm.aspx" publishTime="02/12/2024 14:07:32" />
+    <file relUrl="WebForm3.aspx" publishTime="02/09/2024 04:01:20" />
+    <file relUrl="PasswordReset.aspx" publishTime="02/07/2024 04:38:02" />
+    <file relUrl="bin/Alowance claim management system.dll" publishTime="02/17/2024 11:10:15" />
+    <file relUrl="Web.config" publishTime="02/17/2024 11:10:20" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/07/2023 17:31:24" />
+  </publishProfile>
+</publishData>

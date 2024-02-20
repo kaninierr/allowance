@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.dll
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.pdb
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.xml
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\WebApplication1.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\WebApplication1.Resources.resources
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\WebApplication1.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\WebApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\Alowance claim management system.dll
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\Alowance claim management system.xml
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Release\Alowance claim management system.pdb

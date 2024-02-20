@@ -1,0 +1,13 @@
+E:\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+E:\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+E:\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+E:\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.dll
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.pdb
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\bin\Alowance claim management system.xml
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Debug\Alowance claim management system.dll
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Debug\Alowance claim management system.xml
+C:\Users\Administrator\Desktop\project finale\WebApplication1\WebApplication1\obj\Debug\Alowance claim management system.pdb

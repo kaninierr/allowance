@@ -1,0 +1,73 @@
+﻿/* regstyle.css */
+
+/* Apply styles to the form */
+#form1 {
+    margin: 20px;
+}
+
+
+div {
+    text-align: center;
+}
+
+
+#Label1,
+#Label2,#Label4,
+#Label5,
+#Label7,
+#Label9,
+#Label10,
+#Label11,
+#Label12,
+#Label13 {
+    font-weight: bold;
+    margin-right: 10px;
+    display: inline-block;
+    Width:32px;
+}
+
+/* Apply styles to textboxes 1 to 10 */
+#TextBox1,
+#TextBox2,
+#TextBox3,
+#TextBox4,
+#TextBox5,
+#TextBox6,
+#TextBox7,
+#CheckBox1,
+#CheckBox2,
+#TextBox9,
+#TextBox10 {
+    padding: 5px;
+    margin-bottom: 10px;
+     Width:320px;
+}
+
+/* Apply styles to buttons 1 and 2 */
+#Button1,
+#Button2 {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Apply styles to images 1 and 2 */
+#ImageButton1,
+#ImageButton2 {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Apply styles to checkboxes 1 and 2 */
+#CheckBox1,
+#CheckBox2 {
+    
+}
